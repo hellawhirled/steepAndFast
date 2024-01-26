@@ -35,7 +35,7 @@ git commit -a "add note here"
 
 </details>
 
-</details>
+<details>
 <summary>Project 0 Assignment Instructions</summary>
 
 Create a design with p5.js and get it running on github pages
