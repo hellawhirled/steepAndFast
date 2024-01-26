@@ -35,3 +35,18 @@ git commit -a "add note here"
 
 </details>
 
+</details>
+<summary>Project 0 Assignment Instructions</summary>
+
+Create a design with p5.js and get it running on github pages
+
+The code should generate a custom (non-moving) shape inspired by the words “steep and fast”. For design inspiration - look at our reading materials: 
+
+https://programmingdesignsystems.com/shape/basic-shapes/index.html
+
+and then
+
+https://programmingdesignsystems.com/shape/custom-shapes/index.html
+
+This will involve writing code in vscode, and deploying to a host github pages using Git. Your submission should be a link to your running code.
+</details>
